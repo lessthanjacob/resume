@@ -1,0 +1,143 @@
+{
+  "basics": {
+    "name": "Jacob Sheehy",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": "jacobjsheehy@mail.com",
+    "phone": "(315) 368-7444",
+    "website": "http://jacobjsheehy.com",
+    "summary": "",
+    "location": {
+      "address": "448 W 19th St #PHA",
+      "postalCode": "NY 10011",
+      "city": "New York",
+      "countryCode": "US",
+      "region": "New York"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "jacob-sheehy",
+        "url": "ttps://www.linkedin.com/in/jacob-sheehy"
+      },
+      {
+        "network": "GitHub",
+        "username": "lessthanjacob",
+        "url": "https://github.com/lessthanjacob"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "ALOHA.com",
+      "position": "Full Stack Engineer",
+      "website": "http://aloha.com",
+      "startDate": "2015-07-15",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Designed, implemented and tested a multitude of new web features, while concurrently refactoring existing code, increasing site-wide conversion and improving overall user experience."
+        "Managed multiple projects, including a large scale migration from an outdated, monolithic Rails application to an updated API driven platform.",
+        "Helped devise an organized and coherent internal merchandising classi cation hierarchy, as part of a large scale data normalization effort.",
+        "Implemented a multitude of development processes and practices, increasing developer productivity and efficiency."
+      ]
+    },
+    {
+      "company": "IBM",
+      "position": "Software Engineer",
+      "website": "http://ibm.com",
+      "startDate": "2013-06-01",
+      "endDate": "2015-07-12",
+      "summary": "Spectrum Scale Level 2 Support.",
+      "highlights": [
+        "Utilized various problem determination and communication skills to provide ”high performance computing” technical support to clients administering IBM’s General Parallel File System (GPFS) on Linux (x86 and Power architecture), AIX, and Windows.",
+        "Developed various tools through the use of Korn Shell and Bash scripting, as well as Java, to assist team members in analyzing data more efficiently and effectively, in order to provide clients with a higher quality of technical support."
+      ]
+    }
+  ],
+  "volunteer": [
+  ],
+  "education": [
+    {
+      "institution": "Clarkson University",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2009-08-01",
+      "endDate": "2013-05-01",
+      "gpa": "3.36",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Systems Excellence Award",
+      "date": "2015-06-01",
+      "awarder": "IBM",
+      "summary": "For demonstrating the practice of 'putting the client first'."
+    },
+    {
+      "title": "President's List",
+      "date": "2015-12-01",
+      "awarder": "Clarkson University",
+      "summary": "For achieving a GPA over 3.80."
+    },
+    {
+      "title": "Dean's List",
+      "date": "2010-05-01",
+      "awarder": "Clarkson University",
+      "summary": "For achieving a GPA over 3.25."
+    }
+  ],
+  "publications": [
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ],
+  "meta": {
+    "url": "https://raw.githubusercontent.com/lessthanjacob/resume/master/resume.json",
+    "dateModified": 
+  }
+}
