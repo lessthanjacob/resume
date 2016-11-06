@@ -29,7 +29,6 @@
 		"position": "Full Stack Engineer",
 		"website": "http://aloha.com",
 		"startDate": "2015-07-15",
-		"endDate": "Present",
 		"summary": "",
 		"highlights": [
 			"Designed, implemented and tested a multitude of new web features, while concurrently refactoring existing code, increasing site-wide conversion and improving overall user experience.",
@@ -107,12 +106,5 @@
 			"Unicorns"
 		]
 	}],
-	"references": [{
-		"name": "Erlich Bachman",
-		"reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-	}],
-	"meta": {
-		"url": "https://raw.githubusercontent.com/lessthanjacob/resume/master/resume.json",
-		"dateModified": 1461755909
-	}
+	"references": []
 }
