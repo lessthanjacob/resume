@@ -29,7 +29,6 @@
 		"position": "Full Stack Engineer",
 		"website": "http://aloha.com",
 		"startDate": "2015-07-15",
-		"summary": "",
 		"highlights": [
 			"Designed, implemented and tested a multitude of new web features, while concurrently refactoring existing code, increasing site-wide conversion and improving overall user experience.",
 			"Managed multiple projects, including a large scale migration from an outdated, monolithic Rails application to an updated API driven platform.",
@@ -47,11 +46,20 @@
 			"Utilized various problem determination and communication skills to provide ”high performance computing” technical support to clients administering IBM’s General Parallel File System (GPFS) on Linux (x86 and Power architecture), AIX, and Windows.",
 			"Developed various tools through the use of Korn Shell and Bash scripting, as well as Java, to assist team members in analyzing data more efficiently and effectively, in order to provide clients with a higher quality of technical support."
 		]
+	},
+	{
+		"company": "Clarkson University IMPETUS Program",
+		"position": "Software Engineer",
+		"startDate": "2012-06-01",
+		"endDate": "2012-08-01",
+		"highlights": [
+			"Developed and maintained a previously unfnished website which sought to help facilitate communication within the IMPETUS (Integrated Mathematics and Physics for Entry To Undergraduate STEM) program, and to help increase student participation."
+		]
 	}],
 	"volunteer": [],
 	"education": [{
 		"institution": "Clarkson University",
-		"area": "Computer Science",
+		"area": "Computer Science, Mathematics",
 		"studyType": "Bachelor",
 		"startDate": "2009-08-01",
 		"endDate": "2013-05-01",
@@ -70,26 +78,45 @@
 		"summary": "For achieving a GPA over 3.80."
 	}, {
 		"title": "Dean's List",
+		"date": "2012-05-01",
+		"awarder": "Clarkson University",
+		"summary": "For achieving a GPA over 3.25."
+	},
+	{
+		"title": "Dean's List",
 		"date": "2010-05-01",
 		"awarder": "Clarkson University",
 		"summary": "For achieving a GPA over 3.25."
 	}],
 	"publications": [],
 	"skills": [{
-		"name": "Web Development",
-		"level": "Master",
+		"name": "Languages",
 		"keywords": [
+			"Ruby",
+			"SQL",
+			"Java",
+			"Python",
+			"C++",
+			"Javascript",
 			"HTML",
-			"CSS",
-			"Javascript"
+			"CSS"
 		]
 	}, {
-		"name": "Compression",
-		"level": "Master",
+		"name": "Technologies",
 		"keywords": [
-			"Mpeg",
-			"MP4",
-			"GIF"
+			"Ruby on Rails",
+			"Symfony"
+		]
+	},
+	{
+		"name": "Misc.",
+		"keywords": [
+			"Git",
+			"AWS",
+			"Excel",
+			"Google Analytics",
+			"UNIX",
+			"MATLAB"
 		]
 	}],
 	"languages": [{
@@ -99,12 +126,6 @@
 		"language": "Spanish",
 		"fluency": "Basic"
 	}],
-	"interests": [{
-		"name": "Wildlife",
-		"keywords": [
-			"Ferrets",
-			"Unicorns"
-		]
-	}],
+	"interests": [],
 	"references": []
 }
