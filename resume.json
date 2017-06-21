@@ -8,11 +8,11 @@
 		"website": "http://jacobjsheehy.com",
 		"summary": "",
 		"location": {
-			"address": "448 W 19th St #PHA",
-			"postalCode": "NY 10011",
-			"city": "New York",
+			"address": "1810 Olive Ave Unit A",
+			"postalCode": "CA 93101",
+			"city": "Santa Barbara",
 			"countryCode": "US",
-			"region": "New York"
+			"region": "California"
 		},
 		"profiles": [{
 			"network": "LinkedIn",
@@ -29,6 +29,7 @@
 		"position": "Full Stack Engineer",
 		"website": "http://aloha.com",
 		"startDate": "2015-07-15",
+		"endDate": "2017-01-31",
 		"highlights": [
 			"Designed, implemented and tested a multitude of new web features, while concurrently refactoring existing code, increasing site-wide conversion and improving overall user experience.",
 			"Managed multiple projects, including a large scale migration from an outdated, monolithic Rails application to an updated API driven platform.",
