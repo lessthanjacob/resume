@@ -24,39 +24,47 @@
 			"url": "https://github.com/lessthanjacob"
 		}]
 	},
-	"work": [{
-		"company": "ALOHA.com",
-		"position": "Full Stack Engineer",
-		"website": "http://aloha.com",
-		"startDate": "2015-07-15",
-		"endDate": "2017-01-31",
-		"highlights": [
-			"Designed, implemented and tested a multitude of new web features, while concurrently refactoring existing code, increasing site-wide conversion and improving overall user experience.",
-			"Managed multiple projects, including a large scale migration from an outdated, monolithic Rails application to an updated API driven platform.",
-			"Helped devise an organized and coherent internal merchandising classi cation hierarchy, as part of a large scale data normalization effort.",
-			"Implemented a multitude of development processes and practices, increasing developer productivity and efficiency."
-		]
-	}, {
-		"company": "IBM",
-		"position": "Software Engineer",
-		"website": "http://ibm.com",
-		"startDate": "2013-06-01",
-		"endDate": "2015-07-12",
-		"summary": "Spectrum Scale Level 2 Support.",
-		"highlights": [
-			"Utilized various problem determination and communication skills to provide ”high performance computing” technical support to clients administering IBM’s General Parallel File System (GPFS) on Linux (x86 and Power architecture), AIX, and Windows.",
-			"Developed various tools through the use of Korn Shell and Bash scripting, as well as Java, to assist team members in analyzing data more efficiently and effectively, in order to provide clients with a higher quality of technical support."
-		]
-	},
-	{
-		"company": "Clarkson University IMPETUS Program",
-		"position": "Software Engineer",
-		"startDate": "2012-06-01",
-		"endDate": "2012-08-01",
-		"highlights": [
-			"Developed and maintained a previously unfnished website which sought to help facilitate communication within the IMPETUS (Integrated Mathematics and Physics for Entry To Undergraduate STEM) program, and to help increase student participation."
-		]
-	}],
+	"work": [
+		{
+			"company": "Procore",
+			"position": "Software Engineer",
+			"website": "https://www.procore.com/",
+			"startDate": "2017-03-01"
+		},
+		{
+			"company": "ALOHA.com",
+			"position": "Full Stack Engineer",
+			"website": "https://aloha.com",
+			"startDate": "2015-07-15",
+			"endDate": "2017-01-31",
+			"highlights": [
+				"Designed, implemented and tested a multitude of new web features, while concurrently refactoring existing code, increasing site-wide conversion and improving overall user experience.",
+				"Managed multiple projects, including a large scale migration from an outdated, monolithic Rails application to an updated API driven platform.",
+				"Helped devise an organized and coherent internal merchandising classi cation hierarchy, as part of a large scale data normalization effort.",
+				"Implemented a multitude of development processes and practices, increasing developer productivity and efficiency."
+			]
+		}, {
+			"company": "IBM",
+			"position": "Software Engineer",
+			"website": "http://ibm.com",
+			"startDate": "2013-06-01",
+			"endDate": "2015-07-12",
+			"summary": "Spectrum Scale Level 2 Support.",
+			"highlights": [
+				"Utilized various problem determination and communication skills to provide ”high performance computing” technical support to clients administering IBM’s General Parallel File System (GPFS) on Linux (x86 and Power architecture), AIX, and Windows.",
+				"Developed various tools through the use of Korn Shell and Bash scripting, as well as Java, to assist team members in analyzing data more efficiently and effectively, in order to provide clients with a higher quality of technical support."
+			]
+		},
+		{
+			"company": "Clarkson University IMPETUS Program",
+			"position": "Software Engineer",
+			"startDate": "2012-06-01",
+			"endDate": "2012-08-01",
+			"highlights": [
+				"Developed and maintained a previously unfnished website which sought to help facilitate communication within the IMPETUS (Integrated Mathematics and Physics for Entry To Undergraduate STEM) program, and to help increase student participation."
+			]
+		}
+	],
 	"volunteer": [],
 	"education": [{
 		"institution": "Clarkson University",
@@ -106,6 +114,7 @@
 		"name": "Technologies",
 		"keywords": [
 			"Ruby on Rails",
+			"React",
 			"Symfony"
 		]
 	},
