@@ -17,7 +17,7 @@
 		"profiles": [{
 			"network": "LinkedIn",
 			"username": "jacob-sheehy",
-			"url": "ttps://www.linkedin.com/in/jacob-sheehy"
+			"url": "https://www.linkedin.com/in/jacob-sheehy"
 		}, {
 			"network": "GitHub",
 			"username": "lessthanjacob",
@@ -46,13 +46,16 @@
 		}, {
 			"company": "IBM",
 			"position": "Software Engineer",
-			"website": "http://ibm.com",
+			"website": "https://ibm.com",
 			"startDate": "2013-06-01",
 			"endDate": "2015-07-12",
 			"summary": "Spectrum Scale Level 2 Support.",
 			"highlights": [
 				"Utilized various problem determination and communication skills to provide ”high performance computing” technical support to clients administering IBM’s General Parallel File System (GPFS) on Linux (x86 and Power architecture), AIX, and Windows.",
-				"Developed various tools through the use of Korn Shell and Bash scripting, as well as Java, to assist team members in analyzing data more efficiently and effectively, in order to provide clients with a higher quality of technical support."
+				"Developed various tools through the use of Korn Shell and Bash scripting, as well as Java, to assist team members in analyzing data more efficiently and effectively, in order to provide clients with a higher quality of technical support.",
+				"Worked directly with clients and other support teams to organize the most efficient courses of action in order to achieve organizational objectives and maintain high client satisfaction.",
+				"Implemented deep product knowledge to quickly resolve high priority customer problems, as well as provide helpful product guidance.",
+				"Created and maintained a variety of team's test machines"
 			]
 		},
 		{
