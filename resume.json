@@ -8,8 +8,8 @@
 		"website": "http://jacobjsheehy.com",
 		"summary": "",
 		"location": {
-			"address": "1810 Olive Ave Unit A",
-			"postalCode": "CA 93101",
+			"address": "516 W Los Olivos",
+			"postalCode": "CA 93105",
 			"city": "Santa Barbara",
 			"countryCode": "US",
 			"region": "California"
@@ -27,9 +27,16 @@
 	"work": [
 		{
 			"company": "Procore",
+			"position": "Technical Lead Manager",
+			"website": "https://www.procore.com/",
+			"startDate": "2017-12-01"
+		},
+		{
+			"company": "Procore",
 			"position": "Software Engineer",
 			"website": "https://www.procore.com/",
-			"startDate": "2017-03-01"
+			"startDate": "2017-03-01",
+			"endDate": "2017-12-01"
 		},
 		{
 			"company": "ALOHA.com",
