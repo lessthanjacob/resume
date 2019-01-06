@@ -8,8 +8,8 @@
 		"website": "http://jacobjsheehy.com",
 		"summary": "",
 		"location": {
-			"address": "516 W Los Olivos",
-			"postalCode": "CA 93105",
+			"address": "1424 Salinas Pl",
+			"postalCode": "CA 93103",
 			"city": "Santa Barbara",
 			"countryCode": "US",
 			"region": "California"
@@ -27,7 +27,7 @@
 	"work": [
 		{
 			"company": "Procore",
-			"position": "Technical Lead Manager",
+			"position": "Senior Software Engineer, Technical Lead Manager",
 			"website": "https://www.procore.com/",
 			"startDate": "2017-12-01"
 		},
@@ -117,6 +117,7 @@
 			"Python",
 			"C++",
 			"Javascript",
+			"Elixir",
 			"HTML",
 			"CSS"
 		]
@@ -124,6 +125,7 @@
 		"name": "Technologies",
 		"keywords": [
 			"Ruby on Rails",
+			"Postgres",
 			"React",
 			"Symfony"
 		]
