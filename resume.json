@@ -27,6 +27,12 @@
 	"work": [
 		{
 			"company": "Procore",
+			"position": "Staff Software Engineer",
+			"website": "https://www.procore.com/",
+			"startDate": "2019-04-15"
+		},
+		{
+			"company": "Procore",
 			"position": "Senior Software Engineer, Technical Lead Manager",
 			"website": "https://www.procore.com/",
 			"startDate": "2017-12-01"
