@@ -1,14 +1,14 @@
 {
 	"basics": {
 		"name": "Jacob Sheehy",
-		"label": "Software Engineer",
+		"label": "Staff Software Engineer",
 		"picture": "",
 		"email": "jacobjsheehy@mail.com",
 		"phone": "(315) 368-7444",
 		"website": "http://jacobjsheehy.com",
 		"summary": "",
 		"location": {
-			"address": "1424 Salinas Pl",
+			"address": "1750 Grand Ave",
 			"postalCode": "CA 93103",
 			"city": "Santa Barbara",
 			"countryCode": "US",
@@ -35,7 +35,8 @@
 			"company": "Procore",
 			"position": "Senior Software Engineer, Technical Lead Manager",
 			"website": "https://www.procore.com/",
-			"startDate": "2017-12-01"
+			"startDate": "2017-12-01",
+			"endDate": "2019-04-15"
 		},
 		{
 			"company": "Procore",
@@ -119,9 +120,10 @@
 		"keywords": [
 			"Ruby",
 			"SQL",
-			"Java",
 			"Python",
+			"Java",
 			"C++",
+			"C",
 			"Javascript",
 			"Elixir",
 			"HTML",
@@ -144,7 +146,9 @@
 			"Excel",
 			"Google Analytics",
 			"UNIX",
-			"MATLAB"
+			"MATLAB",
+			"Sumo Logic",
+			"DataDog"
 		]
 	}],
 	"languages": [{
